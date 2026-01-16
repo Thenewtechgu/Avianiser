@@ -12,3 +12,9 @@ The Bosch chip: sensors
 AP2112-1.8,3.3 for power
 MYMGK00506ERSR:power
 I might add a chip to check for countinuity for pyrotechnic charges
+Time spent: 1 hour
+
+15th-16th Jan 2026
+I routed everything needed for the rpi2350b including flash, crystal, buttons, sdcard, and usbc connection
+<img width="1190" height="845" alt="SCH_Avian_2-RPI_2026-01-16" src="https://github.com/user-attachments/assets/c509ea79-2a4b-4115-99e7-b173518992f6" />
+Time spent: 2 hours
