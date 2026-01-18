@@ -18,3 +18,10 @@ Time spent: 1 hour
 I routed everything needed for the rpi2350b including flash, crystal, buttons, sdcard, and usbc connection
 <img width="1190" height="845" alt="SCH_Avian_2-RPI_2026-01-16" src="https://github.com/user-attachments/assets/c509ea79-2a4b-4115-99e7-b173518992f6" />
 Time spent: 2 hours
+
+17th-18th Jan 2026
+I removed the stm32 chip after realising that it was going to be hard to program and im only going to use the rp2350 as the flight controller
+also i wired up the mymg for 12V to 5V power for the rp2350b chip
+<img width="644" height="264" alt="image" src="https://github.com/user-attachments/assets/b457d3cd-c389-4b53-a9d0-671f2ca383d9" />
+Time spent: 1 hour
+
